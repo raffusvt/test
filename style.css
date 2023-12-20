@@ -1,0 +1,35 @@
+*{
+    text-transform: uppercase;
+    font-size: large;
+    text-align: center;
+}
+header{
+    background-color: black;
+    padding: 100px;
+    color: white;
+}
+div{
+    display: inline-flex;
+    color: aliceblue;
+}
+.section{
+    margin-right: 10px;
+    background-color: black;
+    padding: 100px;
+}
+.main{
+    background-color: black;
+    margin-right: 10px;
+    padding: 130px 367px 130px;
+    
+}
+.aside{
+    background-color: black;
+    margin-right: 10px;
+    padding: 100px;
+}
+footer{
+    background-color: black;
+    padding: 100px;
+    color: white;
+}
